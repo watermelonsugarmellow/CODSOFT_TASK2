@@ -1,0 +1,1 @@
+A Tic-Tac-Toe game where you play against an AI built with the Minimax algorithm and Alpha-Beta Pruning. On Hard level it is unbeatable, so the best a human can do is draw. It has a Tkinter interface, three difficulty levels, a scoreboard, and shows how many positions the AI searched.
